@@ -21,3 +21,4 @@ children:
   - /viewing-insights-for-your-organization
 ---
 
+organization
